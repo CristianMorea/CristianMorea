@@ -1,6 +1,6 @@
 
 <h1 align="center">hola👋, yo soy Cristian</h1>
-<h3 align="center">Un backend apasionado de Colombia</h3>
+<h3 align="center">Programador Backend</h3>
 
 
 <p align="left">
