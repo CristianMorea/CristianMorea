@@ -10,7 +10,7 @@ Soy un apasionado desarrollador backend con experiencia en el desarrollo de apli
 - 🌱 Actualmente estoy aprendiendo: sprig boot, spring data, spring Security
 - 👯 Busco colaborar en: Proyectos de código abierto y equipos dinámicos
 - 💬 Pregúntame sobre: Desarrollo Backend, Bases de datos relacionales, y mejores prácticas de arquitectura
-- 📫 Cómo contactarme: cristiandavidtoconasmorea@gmail.com
+- 📫 Cómo contactarme: cristiandavidtoconasmorea@gmail.com   telefono 3127740543
 ---
 
 ## 🛠️ Tecnologías y Herramientas
