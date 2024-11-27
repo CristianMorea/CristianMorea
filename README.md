@@ -47,22 +47,20 @@ Soy un apasionado desarrollador backend con experiencia en el desarrollo de apli
 
 ## 📚 Proyectos Destacados
 
-### 1. PLATAFORMA DIGITAL PARA LA PRESERVACIÓN CULTURAL Y LINGÜÍSTICA DEL PUEBLO NASA DE TACUEYO CAUCA
-**Stack Tecnológico**: spring boot, mysql, vue
+### 1. aplicacion movil
+**Stack Tecnológico**: vue-ionic, supabase
 
 - Descripción del proyecto.
-La herencia cultural del pueblo Nasa, especialmente su lengua nasa yuwe y sus tradiciones ancestrales, enfrenta riesgos de desaparición en un mundo globalizado. Para preservar y transmitir este legado, proponemos "Nasa Yuwe Aprende", una aplicación interactiva inspirada en plataformas como Duolingo.
-
-Esta herramienta permitirá a los usuarios aprender el nasa yuwe de forma accesible y divertida, integrando además mitos, historias orales y tradiciones de la comunidad. Con un enfoque colaborativo, la iniciativa involucrará a los miembros del pueblo Nasa en la enseñanza, promoviendo el orgullo cultural y fortaleciendo el vínculo entre generaciones.
+  Un aplicacion movil para gestionar las calificaciones, notas, clases, profesores, recordatorios, autenticacion
 - Qué problema resuelve o cuál es su objetivo.
-  sistema integral para la preservación y difusión del conocimiento cultural y lingüístico del pueblo Nasa originario de Tacueyo, Cauca.
+ ayuda a tener una mayor organizacion y tambien te da las calificaciones por corte y el ponderado final el cual sive pra hacerse una idea de cuanto necesitas para pasar la asignatura
 - Enlaces a la demo en vivo o documentación detallada.
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianMorea&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Cristian">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMorea&layout=compact&theme=radical" alt="Lenguajes más usados por Cristian">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianMorea&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Cristian](https://github.com/CristianMorea/horarioClasesApp.git">
+  
 </div>
 
 ---
@@ -74,5 +72,5 @@ Esta herramienta permitirá a los usuarios aprender el nasa yuwe de forma accesi
 ## 📫 ¡Conectemos!
 
 - GitHub: [CristianMorea](https://github.com/CristianMorea)
-- LinkedIn: [Tu perfil de LinkedIn](https://linkedin.com/in/tu-linkedin)
+
 - Portafolio: [Tu Portafolio](https://tu-portafolio.com)
