@@ -134,7 +134,7 @@ Ingenierío de Sistemas con experiencia sólida en desarrollo full-stack, proces
 ## 📫 ¡Conectemos!
 
 - **GitHub:** [CristianMorea](https://github.com/CristianMorea)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil) *(recomiendo agregar)*
+- **LinkedIn:** https://www.linkedin.com/in/cristian-toconas-153a4024b/
 - **Email:** cristiandavidtoconasmorea@gmail.com
 - **Teléfono:** +57 3127740543
 
