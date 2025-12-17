@@ -23,7 +23,7 @@ Me interesa especialmente la **integración entre modelos de IA y sistemas backe
 - 💬 **Áreas fuertes:** Backend (Java / Python), NLP, arquitectura de software  
 - 🎓 **Formación:** Ingeniería de Sistemas – Universidad Santiago de Cali  
 - 📍 **Ubicación:** Colombia  
-- 📫 **Contacto:** cristiandavidtoconasmorea@gmail.com  
+- 📫 **Contacto:** cristiandavidtoconasmorea@gmail.com - 3127740543
 
 ---
 
@@ -66,8 +66,6 @@ Sistema diseñado para **recuperación semántica de información** a partir de 
 - Almacenamiento y consulta eficiente en base de datos vectorial (Milvus)  
 - Recuperación basada en similitud vectorial  
 - Arquitectura desacoplada preparada para integrarse en pipelines RAG  
-
-> Este proyecto demuestra diseño de sistemas de IA más allá de un CRUD tradicional.
 
 ---
 
